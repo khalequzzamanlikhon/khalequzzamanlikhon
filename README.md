@@ -16,5 +16,5 @@
   </tr>
 </table>
 
-**Profile Views: From Sep 23, 2024
+**Profile Views:** From Sep 23, 2024
 ![Profile views](https://komarev.com/ghpvc/?username=khalequzzamanlikhon&color=blue)
