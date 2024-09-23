@@ -5,6 +5,3 @@
 💭 If you are interested in working with me in the domains mentioned above, feel free to dm me at khalequzzamanlikhon@gmail.com <br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=khalequzzamanlikhon&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
