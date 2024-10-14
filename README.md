@@ -36,7 +36,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalequzzamanlikhon&langs_count=8&count_private=true&layout=compact&theme=radical&card_width=400" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalequzzamanlikhon&langs_count=8&count_private=true&layout=compact&theme=radical&card_width=500&card_height=1000" alt="Top Languages" />
     </td>
     <td>
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
