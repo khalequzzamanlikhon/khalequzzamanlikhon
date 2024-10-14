@@ -1,3 +1,7 @@
+<!-- | [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/GreenLii/)-->
+<!-- |[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-orange?style=flat-square&logo=huggingface)](https://huggingface.co/limon7)
+-->
+
 # 👋  Hi, I'm Khalequzzaman Likhon! ![Visitor Count](https://komarev.com/ghpvc/?username=khalequzzamanlikhon&color=brightgreen&style=flat-square) |  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/khalequzzaman-likhon/) | [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/likhon148)
 
 👩🏻‍💻 I enjoy solving real-world problems leveraging the power of deep learning, computer vision, and NLP<br/>
@@ -18,7 +22,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
-
 ## 📊 Stats & Activity
 
 <table>
@@ -36,11 +39,11 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalequzzamanlikhon&langs_count=8&count_private=true&layout=compact&theme=radical&card_width=500&card_height=1000" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalequzzamanlikhon&langs_count=8&count_private=true&layout=compact&theme=radical&size=large" alt="Top Languages" width="300" />
     </td>
     <td>
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=khalequzzamanlikhon&theme=react-dark" alt="GitHub Activity Graph" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=khalequzzamanlikhon&theme=react-dark" alt="GitHub Activity Graph" width="700" />
       </a>
     </td>
   </tr>
