@@ -4,7 +4,7 @@
 
 # 👋  Hi, I'm Khalequzzaman Likhon! ![Visitor Count](https://komarev.com/ghpvc/?username=khalequzzamanlikhon&color=brightgreen&style=flat-square) |  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/khalequzzaman-likhon/) | [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/likhon148)
 
-👩🏻‍💻 I enjoy solving real-world problems leveraging the power of deep learning, computer vision, and NLP<br/>
+👩🏻‍💻 I enjoy solving real-world problems leveraging the power of deep learning, computer vision, and LLM<br/>
 👩🏻‍🎓 Studied computer science and engineering at [Ahsanullah University of Science and Technology](https://www.aust.edu/), Bangladesh<br/>
 💭 If you are interested in working with me in the domains mentioned above, please leave a message at khalequzzamanlikhon@gmail.com <br/>
 
